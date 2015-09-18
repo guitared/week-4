@@ -1,0 +1,6 @@
+c:\users\guitared\documents\visual studio 2013\Projects\Lab401\Lab401\bin\Debug\Lab401.exe.config
+c:\users\guitared\documents\visual studio 2013\Projects\Lab401\Lab401\bin\Debug\Lab401.exe
+c:\users\guitared\documents\visual studio 2013\Projects\Lab401\Lab401\bin\Debug\Lab401.pdb
+c:\users\guitared\documents\visual studio 2013\Projects\Lab401\Lab401\obj\Debug\Lab401.csprojResolveAssemblyReference.cache
+c:\users\guitared\documents\visual studio 2013\Projects\Lab401\Lab401\obj\Debug\Lab401.exe
+c:\users\guitared\documents\visual studio 2013\Projects\Lab401\Lab401\obj\Debug\Lab401.pdb
